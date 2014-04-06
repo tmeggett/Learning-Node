@@ -1,0 +1,28 @@
+{
+  "name": "Learning-Node",
+  "version": "0.0.0",
+  "description": "Google Calendar Booking",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmeggett/Learning-Node"
+  },
+  "keywords": [
+    "google",
+    "booking",
+    "calendar"
+  ],
+  "author": "tmeggett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmeggett/Learning-Node/issues"
+  },
+  "homepage": "https://github.com/tmeggett/Learning-Node",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}

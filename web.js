@@ -1,6 +1,10 @@
 // web.js
 var express = require("express");
 var logfmt = require("logfmt");
+var oauth = require('oauth');
+var mongo = require('mongodb');
+var gcal = require('google-calendar');
+var q = require('q');
 var app = express();
 
 app.use(logfmt.requestLogger());

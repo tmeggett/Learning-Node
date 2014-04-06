@@ -23,6 +23,10 @@
   "homepage": "https://github.com/tmeggett/Learning-Node",
   "dependencies": {
     "logfmt": "^1.1.2",
-    "express": "^3.5.1"
+    "express": "^3.5.1",
+    "oauth": "^0.9.11",
+    "q": "^1.0.1",
+    "mongodb": "^1.4.0",
+    "google-calendar": "^1.3.1"
   }
 }
